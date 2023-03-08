@@ -1,0 +1,37 @@
+.stud-form-img {
+    width: 150px;
+    height: 150px;
+}
+.stud-form-div-img {
+    text-align: center;
+    margin-top: 90px;
+}
+.stud-form {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 14px;
+}
+.stud-form-body {
+    background-color: aquamarine;
+}
+#stud-form-text {
+    margin-left: 10px;
+    width: 95%;
+}
+#stud-form-btn {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.stud-uname {
+    margin-left: 10px;
+    font-weight: bold;
+}
+.form-warning {
+    color: red;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 10px;
+    margin-top: -13px;
+    margin-bottom: 10px;
+}
